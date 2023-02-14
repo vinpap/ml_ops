@@ -1,0 +1,9 @@
+*.csv
+*.png
+*.txt
+.ipynb*
+data
+__pycache__
+mlruns
+*.pickle
+
